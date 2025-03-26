@@ -1,2 +1,1 @@
-# upload-scripts
-Grab Bugbounty POC
+# Grab Bugbounty POC
